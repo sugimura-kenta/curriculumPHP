@@ -1,0 +1,37 @@
+@media screen and (max-width: 479px){
+
+    #wrapper,.header,.left,.right,.footer {
+        width: 200px;
+    }
+
+    .header{
+        height: 200px;
+    }
+
+    .header-icon {
+        flex-direction: column;
+        height: 160px;
+        width: 60px;
+        margin: 20px 70px 20px 70px;
+    }
+
+    .icon2 {
+        margin: 0 10px;
+    }
+
+    .right {
+        height: 210px;
+    }
+
+    .right-item {
+        margin: 20px 30px;
+    }
+
+    .item1,.item2,.item3 {
+        width: 130px;
+    }
+
+    .contents {
+        float: none;
+    }
+}
