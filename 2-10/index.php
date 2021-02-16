@@ -1,6 +1,6 @@
 <?php
 
-function getVolume($Vertical,$horizontal,$height,) {
+function getVolume($Vertical,$horizontal,$height) {
     $volume  = $Vertical * $horizontal * $height / 2;
     return $volume."cm³";
 }
