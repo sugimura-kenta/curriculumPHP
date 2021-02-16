@@ -53,4 +53,12 @@
         float: none;
     }
 
+    .top-right {
+        height: 100px;
+    }
+
+    .left {
+        height: 100px;
+    }
+
 }

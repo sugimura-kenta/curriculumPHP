@@ -19,10 +19,6 @@ body {
     background-color: #141f40;
 }
 
-.contents {
-    height: 250px;
-}
-
 .left {
     background-color: #80bfa8;
     width: 150px;
@@ -39,6 +35,13 @@ body {
     float: left;
 }
 
+.top-right {
+    float: right;
+    height: 150px;
+    width: 100px;
+    background-color:#ff9e6b ;
+}
+
 .top-left-top {
     width: 150px;
     background-color: #dbd400;
@@ -49,13 +52,6 @@ body {
     width: 150px;
     background-color: #0093b7;
     height: 100px;
-}
-
-.top-right {
-    float: right;
-    height: 150px;
-    width: 100px;
-    background-color:#ff9e6b ;
 }
 
 .right-bottom {
