@@ -1,0 +1,54 @@
+#wrapper {
+    margin: 10px 30px;
+}
+
+.button {
+    display: flex;
+    margin-bottom: 20px;
+}
+
+.create,.logout {
+    width: 80px;
+    height: 25px;
+    border-radius: 5px;
+    color: aliceblue;
+    border: 1px solid #ddd;
+    padding: 2px 8px;
+    text-decoration: none;
+    text-align: center;
+}
+
+.create {
+    background-color: #045bb3;
+}
+
+.logout {
+    background-color: #555555;
+    margin-left: 10px;
+}
+
+.table {
+    border-collapse: collapse;
+    text-align: center;
+}
+
+th {
+    background-color: #eeeeee;
+    padding: 10px 60px;
+    border: 1px solid #bbbbbb;
+}
+
+td {
+    padding: 10px 60px;
+    border:1px solid #bbbbbb;
+}
+
+.delete {
+    border-radius: 5px;
+    color: aliceblue;
+    border: 1px solid #ddd;
+    padding: 2px 8px;
+    text-decoration: none;
+    text-align: center;
+    background-color:#e61717 ;
+}
